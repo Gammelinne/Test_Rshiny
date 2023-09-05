@@ -1,0 +1,266 @@
+[
+    {
+        "category": "A",
+        "value": 10,
+        "x_data": 1,
+        "y_data": 5
+    },
+    {
+        "category": "B",
+        "value": 20,
+        "x_data": 2,
+        "y_data": 8
+    },
+    {
+        "category": "C",
+        "value": 15,
+        "x_data": 3,
+        "y_data": 12
+    },
+    {
+        "category": "D",
+        "value": 30,
+        "x_data": 4,
+        "y_data": 10
+    },
+    {
+        "category": "E",
+        "value": 25,
+        "x_data": 5,
+        "y_data": 15
+    },
+    {
+        "category": "F",
+        "value": 12,
+        "x_data": 6,
+        "y_data": 9
+    },
+    {
+        "category": "G",
+        "value": 18,
+        "x_data": 7,
+        "y_data": 7
+    },
+    {
+        "category": "H",
+        "value": 22,
+        "x_data": 8,
+        "y_data": 11
+    },
+    {
+        "category": "I",
+        "value": 35,
+        "x_data": 9,
+        "y_data": 14
+    },
+    {
+        "category": "J",
+        "value": 28,
+        "x_data": 10,
+        "y_data": 20
+    },
+    {
+        "category": "K",
+        "value": 14,
+        "x_data": 11,
+        "y_data": 18
+    },
+    {
+        "category": "L",
+        "value": 17,
+        "x_data": 12,
+        "y_data": 25
+    },
+    {
+        "category": "M",
+        "value": 29,
+        "x_data": 13,
+        "y_data": 28
+    },
+    {
+        "category": "N",
+        "value": 24,
+        "x_data": 14,
+        "y_data": 30
+    },
+    {
+        "category": "O",
+        "value": 19,
+        "x_data": 15,
+        "y_data": 22
+    },
+    {
+        "category": "P",
+        "value": 21,
+        "x_data": 16,
+        "y_data": 19
+    },
+    {
+        "category": "Q",
+        "value": 27,
+        "x_data": 17,
+        "y_data": 17
+    },
+    {
+        "category": "R",
+        "value": 33,
+        "x_data": 18,
+        "y_data": 16
+    },
+    {
+        "category": "S",
+        "value": 26,
+        "x_data": 19,
+        "y_data": 24
+    },
+    {
+        "category": "T",
+        "value": 31,
+        "x_data": 20,
+        "y_data": 27
+    },
+    {
+        "category": "U",
+        "value": 23,
+        "x_data": 21,
+        "y_data": 23
+    },
+    {
+        "category": "V",
+        "value": 32,
+        "x_data": 22,
+        "y_data": 21
+    },
+    {
+        "category": "W",
+        "value": 16,
+        "x_data": 23,
+        "y_data": 26
+    },
+    {
+        "category": "X",
+        "value": 34,
+        "x_data": 24,
+        "y_data": 29
+    },
+    {
+        "category": "Y",
+        "value": 27,
+        "x_data": 25,
+        "y_data": 31
+    },
+    {
+        "category": "Z",
+        "value": 38,
+        "x_data": 26,
+        "y_data": 32
+    },
+    {
+        "category": "AA",
+        "value": 40,
+        "x_data": 27,
+        "y_data": 34
+    },
+    {
+        "category": "BB",
+        "value": 42,
+        "x_data": 28,
+        "y_data": 37
+    },
+    {
+        "category": "CC",
+        "value": 45,
+        "x_data": 29,
+        "y_data": 39
+    },
+    {
+        "category": "DD",
+        "value": 48,
+        "x_data": 30,
+        "y_data": 42
+    },
+    {
+        "category": "EE",
+        "value": 50,
+        "x_data": 31,
+        "y_data": 45
+    },
+    {
+        "category": "FF",
+        "value": 36,
+        "x_data": 32,
+        "y_data": 36
+    },
+    {
+        "category": "GG",
+        "value": 44,
+        "x_data": 33,
+        "y_data": 38
+    },
+    {
+        "category": "HH",
+        "value": 47,
+        "x_data": 34,
+        "y_data": 40
+    },
+    {
+        "category": "II",
+        "value": 49,
+        "x_data": 35,
+        "y_data": 44
+    },
+    {
+        "category": "JJ",
+        "value": 37,
+        "x_data": 36,
+        "y_data": 46
+    },
+    {
+        "category": "KK",
+        "value": 41,
+        "x_data": 37,
+        "y_data": 47
+    },
+    {
+        "category": "LL",
+        "value": 46,
+        "x_data": 38,
+        "y_data": 41
+    },
+    {
+        "category": "MM",
+        "value": 43,
+        "x_data": 39,
+        "y_data": 43
+    },
+    {
+        "category": "NN",
+        "value": 39,
+        "x_data": 40,
+        "y_data": 35
+    },
+    {
+        "category": "OO",
+        "value": 35,
+        "x_data": 41,
+        "y_data": 33
+    },
+    {
+        "category": "PP",
+        "value": 31,
+        "x_data": 42,
+        "y_data": 30
+    },
+    {
+        "category": "QQ",
+        "value": 28,
+        "x_data": 43,
+        "y_data": 28
+    },
+    {
+        "category": "RR",
+        "value": 22,
+        "x_data": 44,
+        "y_data": 25
+    }
+]
